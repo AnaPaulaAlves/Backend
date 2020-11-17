@@ -1,0 +1,13 @@
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.exe
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.deps.json
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.json
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.dev.json
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csprojAssemblyReference.cache
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfoInputs.cache
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfo.cs
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\wnova\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.genruntimeconfig.cache
